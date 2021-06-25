@@ -7,7 +7,9 @@
   "sasslintConfig": ".sass-lint.yml",
   "scripts": {
     "lint": "make lint-js && make lint-scss && make lint-ts",
-    "test": "make test-js"
+    "test": "make test-js",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "dependencies": {
     "autoprefixer": "^9.4.3",
@@ -54,7 +56,8 @@
     "sockjs-client": "1.1.5",
     "sqlite-parser": "1.0.1",
     "whatwg-fetch": "0.11.1",
-    "when": "3.7.8"
+    "when": "3.7.8",
+    "snyk": "^1.646.0"
   },
   "babel": {
     "presets": [
@@ -121,5 +124,6 @@
     "> 1%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "snyk": true
 }
