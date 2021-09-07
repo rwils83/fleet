@@ -30,7 +30,7 @@
     "lodash": "4.17.21",
     "memoize-one": "^5",
     "moment": "2.22.2",
-    "nock": "9.0.3",
+    "nock": "13.1.0",
     "node-bourbon": "4.2.8",
     "node-sass": "6.0.1",
     "normalizr": "2.3.1",
