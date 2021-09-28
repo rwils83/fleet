@@ -6608,6 +6608,7 @@ snapdragon@^0.8.1:
     use "^3.1.0"
 
 snyk@^1.685.0:
+
   version "1.720.0"
   resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.720.0.tgz#23ad83fb99e39a852d5c2e05fc11398571aeb41e"
   integrity sha512-NCy+57lvoggyM4WIzsNQyf2+fX6eZAqu2nznGq+RVfYBcwLgiDpg76oafrmp/rUtSIM1E+68cm1bJWSiNZqf7w==
