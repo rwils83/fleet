@@ -27,7 +27,7 @@
     "isomorphic-fetch": "3.0.0",
     "js-md5": "0.7.3",
     "jsdom": "9.12.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "memoize-one": "^5",
     "moment": "2.22.2",
     "nock": "13.1.0",
